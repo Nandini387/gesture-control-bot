@@ -141,13 +141,5 @@ If your gesture pipeline runs on the same machine as `motor.py`, you can instead
 
 This project is licensed under the MIT License — see the `LICENSE` file.
 
----
 
-If you want, I can next:
-
-- create a `requirements.txt` using the suggested packages,
-- add a concrete pin mapping for `espcode.ino` (I can edit the sketch to match),
-- implement a small OpenCV demo that maps simple gestures to commands and runs end-to-end.
-
-Tell me which next step you'd like and I'll proceed.
 
